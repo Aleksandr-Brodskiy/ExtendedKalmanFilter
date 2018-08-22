@@ -1,2 +1,2 @@
 
-*.matlab linguist-language=octave
+*.m linguist-language=octave
